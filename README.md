@@ -76,7 +76,7 @@
 
 <br />
 <!-- wi*quL3fcV -->
-
+### Using JavaScript to find out who came first...🤣🤣🤣
 ```javascript
 // Which came first: the chicken or the egg?
 console.log(['🥚', '🐣', '🐥', '🐔'].sort())
