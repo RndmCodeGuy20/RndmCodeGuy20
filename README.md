@@ -75,9 +75,10 @@
 ![RndmCodeGuy20's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=RndmCodeGuy20&theme=rogue&hide_border=true&area=true)
 
 <br />
-<!-- wi*quL3fcV -->
 ### Using JavaScript to find out who came first...🤣🤣🤣
-```javascript
+<!-- wi*quL3fcV -->
+
+``javascript
 // Which came first: the chicken or the egg?
 console.log(['🥚', '🐣', '🐥', '🐔'].sort())
 
