@@ -75,7 +75,9 @@
 ![RndmCodeGuy20's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=RndmCodeGuy20&theme=rogue&hide_border=true&area=true)
 
 <br />
+
 ### Using JavaScript to find out who came first...🤣🤣🤣
+
 <!-- wi*quL3fcV -->
 
 ```javascript
