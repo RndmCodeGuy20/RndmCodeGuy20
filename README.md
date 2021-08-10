@@ -59,6 +59,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RndmCodeGuy20&hide=jupyter%20notebook&show_icons=true&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
+[![RndmCodeGuy20's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RndmCodeGuy20)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Some of the technologies I have worked with
 
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
