@@ -57,7 +57,7 @@
 ![Powershell](http://img.shields.io/badge/-Powershell-5391FE?style=flat-square&logo=powershell&logoColor=ffffff)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=000000)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RndmCodeGuy20&hide=jupyter%20notebook&show_icons=true&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RndmCodeGuy20&hide=jupyter%20notebook&show_icons=true&layout=compact&hide_border=true&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 [![RndmCodeGuy20's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RndmCodeGuy20)](https://github.com/anuraghazra/github-readme-stats)
 
