@@ -59,9 +59,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RndmCodeGuy20&hide=jupyter%20notebook&show_icons=true&layout=Demo&hide_border=true&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
-[![RndmCodeGuy20's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RndmCodeGuy20)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![RndmCodeGuy20's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RndmCodeGuy20)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RndmCodeGuy20&repo=RndmCodeGuy20)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RndmCodeGuy20&repo=RndmCodeGuy20)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ### Some of the technologies I have worked with
 
