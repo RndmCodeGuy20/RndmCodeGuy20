@@ -61,7 +61,7 @@
 
 [![RndmCodeGuy20's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RndmCodeGuy20)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RndmCodeGuy20&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RndmCodeGuy20&repo=RndmCodeGuy20)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Some of the technologies I have worked with
 
