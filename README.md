@@ -57,7 +57,7 @@
 ![Powershell](http://img.shields.io/badge/-Powershell-5391FE?style=flat-square&logo=powershell&logoColor=ffffff)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=000000)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RndmCodeGuy20&hide=jupyter%20notebook&show_icons=true&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RndmCodeGuy20&show_icons=true&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Some of the technologies I have worked with
 
@@ -70,7 +70,7 @@
 
 <div><h2>My overview: </h2></div>
 
-[![RndmCodeGuy20's GitHub stats](https://github-readme-stats.vercel.app/api?username=RndmCodeGuy20&bg_color=172030&title_color=00FFFF&show_icons=true&hide_border=true&text_color=fff&icon_color=E0FFFF)](https://github.com/anuraghazra/github-readme-stats)
+[![RndmCodeGuy20's GitHub stats](https://github-readme-stats.vercel.app/api?username=RndmCodeGuy20&theme=jolly&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ![RndmCodeGuy20's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=RndmCodeGuy20&theme=rogue&hide_border=true&area=true)
 
