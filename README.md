@@ -1,21 +1,23 @@
+# Ohh! So you finally found me! Great!!!👋🤘🤙
 
- # Ohh! So you finally found me! Great!!!👋🤘🤙
  <img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200" height="200" align="centre">
 
-
 ## Hello There!<img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"> I am [Shantanu Mane](https://github.com/RndmCodeGuy20)!<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+
 ## I'm a Programmer!
+
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :blush:</em>
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shantanu-mane-035665212/)
-[<img src="https://img.shields.io/github/followers/RndmCodeGuy20?label=follow&style=social" height="22" title="Follow me" />](https://github.com/RndmCodeGuy20) 
+[<img src="https://img.shields.io/github/followers/RndmCodeGuy20?label=follow&style=social" height="22" title="Follow me" />](https://github.com/RndmCodeGuy20)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/shantheman.20)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:manesg@rknec.edu)
 <a href="https://www.freecodecamp.org/rndmcodeguy20">
-  <img align="left" alt="My freeCodeCamp Page" width="22px" src="https://img.icons8.com/windows/32/000000/free-code-camp.png"/>
+<img align="left" alt="My freeCodeCamp Page" width="22px" src="https://img.icons8.com/windows/32/000000/free-code-camp.png"/>
 </a>
 <a target="_blank" href="https://dev.to/rndmcodeguy20/"><img src="https://img.shields.io/badge/-dev-12100E?style=for-the-badge&logo=Medium&logoColor=white"></img></a> &nbsp;
+
 <div>
 <br />
 <p>
@@ -59,9 +61,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RndmCodeGuy20&show_icons=true&layout=Demo&hide_border=true&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- [![RndmCodeGuy20's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RndmCodeGuy20)](https://github.com/anuraghazra/github-readme-stats)
+[![RndmCodeGuy20's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RndmCodeGuy20)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RndmCodeGuy20&repo=RndmCodeGuy20)](https://github.com/anuraghazra/github-readme-stats) -->
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RndmCodeGuy20&repo=RndmCodeGuy20)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ### Some of the technologies I have worked with
 
@@ -86,16 +88,25 @@
 
 ```javascript
 // Which came first: the chicken or the egg?
-console.log(['🥚', '🐣', '🐥', '🐔'].sort())
-
->>> [ '🐔', '🐣', '🐥', '🥚' ]
+console.log(["🥚", "🐣", "🐥", "🐔"].sort()) >>> ["🐔", "🐣", "🐥", "🥚"];
 ```
 
-
 <!-- Optional Visitors badge: -->
+
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=RndmCodeGuy20.RndmCodeGuy20)
 
-⭐️ From [Shantanu Mane](https://github.com/RndmCodeGuy20/RndmCodeGuy20) 
+⭐️ From [Shantanu Mane](https://github.com/RndmCodeGuy20/RndmCodeGuy20)
 
 <br />
 <img src="https://imgur.com/rilHVxA.png"/>
+
+<!-- ```C
+
+#include <stdio.h>
+
+int main(){
+  printf("Hey!");
+
+return 0;
+}
+``` -->
