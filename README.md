@@ -91,6 +91,9 @@
 console.log(["🥚", "🐣", "🐥", "🐔"].sort()) 
 >>> ["🐔", "🐣", "🐥", "🥚"];
 ```
+---
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 <!-- Optional Visitors badge: -->
 
