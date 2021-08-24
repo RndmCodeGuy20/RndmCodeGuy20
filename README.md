@@ -10,7 +10,7 @@
 - 💻 I'm a Programmer! <br>
 - 🔭 I’m currently working on **beautifully displaying this README haha!** <br>
 - 🌱 I’m currently learning **Java, Fullstack Development, Competitive Programming** <br>
-- 👯 If you have any projects you would like to colaborate, reach out to me.<br>
+- 👯 If you have any projects you would like to collaborate, reach out to me.<br>
 - 💬 Ask me about **anything (I'll surely give you an answer, regardless of whether it is correct or not🙃)** <br>
 - ⚡ Fun fact: I casually like to play the piano / keyboard / synthesizer🎹 <br>
 </div>
