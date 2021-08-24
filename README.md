@@ -79,7 +79,7 @@
  
  </div>
 
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RndmCodeGuy20&repo=RndmCodeGuy20)](https://github.com/anuraghazra/github-readme-stats) -->
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RndmCodeGuy20&repo=Competitive-Programming)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ### Some of the technologies I have worked with
 
@@ -90,7 +90,6 @@
 [![MEGA](https://img.shields.io/badge/-MEGA-444444?style=flat&logo=mega&logoColor=D9272E)](ttps://github.com/meganz/)
 [![Visual Studio Code](https://img.shields.io/badge/-VSCode-444444?style=flat&logo=visual-studio-code&logoColor=007ACC)](https://github.com/microsoft/vscode)
 ---
-=======
 
 <div align="center">
 
