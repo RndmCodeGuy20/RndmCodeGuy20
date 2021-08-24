@@ -12,19 +12,20 @@
 - 🌱 I’m currently learning **Java, Fullstack Development, Competitive Programming** <br>
 - 👯 If you have any projects you would like to colaborate, reach out to me.<br>
 - 💬 Ask me about **anything (I'll surely give you an answer, regardless of whether it is correct or not🙃)** <br>
-- ⚡ Fun fact: I casually like to play the piano / keyboard / synthsiser🎹 <br>
+- ⚡ Fun fact: I casually like to play the piano / keyboard / synthesizer🎹 <br>
 </div>
 <h2></h2>
 <!-- Using blank h2 element for giving horizontal line. I know I can use use <hr> but I want to use this only 😤 -->
 
 <img align='left' src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"><em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :blush:</em>
-<p align="center"><span>
-  <a href="https://www.linkedin.com/in/RndmGuy20/"><img src="https://image.flaticon.com/icons/png/128/1409/1409945.png" height="40" width="40"></a>&nbsp&nbsp
-  <a href="https://www.instagram.com/shantheman.20"><img src="https://image.flaticon.com/icons/png/128/1409/1409946.png" height="40" width="40"></a>&nbsp&nbsp
-  <a href="https://github.com/RndmCodeGuy20"><img src="https://image.flaticon.com/icons/png/512/270/270798.png" height="40" width="40"></a>&nbsp&nbsp
-  <a href="mailto:manesg@rknec.edu"><img src="https://image.flaticon.com/icons/png/128/888/888853.png" height="40" width="40"></a>&nbsp&nbsp
-  <a href="https://www.freecodecamp.org/rndmcodeguy20"><img src="https://img.icons8.com/windows/2x/free-code-camp.png" height="45" width="45"></a>&nbsp&nbsp
-</span></p>
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shantanu-mane-035665212/)
+[<img src="https://img.shields.io/github/followers/RndmCodeGuy20?label=follow&style=social" height="22" title="Follow me" />](https://github.com/RndmCodeGuy20)
+[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/shantheman.20)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:manesg@rknec.edu)
+<a href="https://www.freecodecamp.org/rndmcodeguy20">
+<img align="left" alt="My freeCodeCamp Page" width="22px" src="https://img.icons8.com/windows/32/000000/free-code-camp.png"/>
+</a>
+<a target="_blank" href="https://dev.to/rndmcodeguy20/"><img src="https://img.shields.io/badge/-dev-12100E?style=for-the-badge&logo=Medium&logoColor=white"></img></a> &nbsp;
 
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
