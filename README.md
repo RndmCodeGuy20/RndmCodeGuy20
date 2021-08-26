@@ -11,7 +11,7 @@
 - 🔭 I’m currently working on **beautifully displaying this README haha!** <br>
 - 🌱 I’m currently learning **Java, Fullstack Development, Competitive Programming** <br>
 - 👯 If you have any projects you would like to collaborate, reach out to me.<br>
-- 💬 Ask me about **anything (I'll surely give you an answer, regardless of whether it is correct or not🙃)** <br>
+- 💬 Ask me about **anything (I'll surely give you an answer, regardless of whether it is correct or not  <img src="https://cultofthepartyparrot.com/parrots/slomoparrot.gif" width="30" height="30"/>)** <br>
 - ⚡ Fun fact: I casually like to play the piano / keyboard / synthesizer🎹 <br>
 </div>
 <div>
@@ -103,7 +103,7 @@
 </div>
 <h2></h2>
 
-### Using JavaScript to find out who came first...🤣🤣🤣
+### Nothing to see here...<img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="30" height="30"/><img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="30" height="30"/><img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="30" height="30"/>
 
 <!-- wi*quL3fcV -->
 
@@ -121,6 +121,8 @@ console.log(["🥚", "🐣", "🐥", "🐔"].sort())
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=RndmCodeGuy20.RndmCodeGuy20)
 
 ⭐️ From [Shantanu Mane](https://github.com/RndmCodeGuy20/RndmCodeGuy20)
+---
+#### Yeah, Science...<img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="30" height="30"/>
 
 <br />
 <img src="https://imgur.com/rilHVxA.png"/>
