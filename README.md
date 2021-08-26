@@ -122,7 +122,7 @@ console.log(["🥚", "🐣", "🐥", "🐔"].sort())
 
 ⭐️ From [Shantanu Mane](https://github.com/RndmCodeGuy20/RndmCodeGuy20)
 ---
-#### Yeah, Science...<img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="30" height="30"/>
+> Yeah, Science...<img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="30" height="30"/>
 
 <br />
 <img src="https://imgur.com/rilHVxA.png"/>
