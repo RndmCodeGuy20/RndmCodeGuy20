@@ -14,6 +14,9 @@
 - 💬 Ask me about **anything (I'll surely give you an answer, regardless of whether it is correct or not🙃)** <br>
 - ⚡ Fun fact: I casually like to play the piano / keyboard / synthesizer🎹 <br>
 </div>
+<div>
+<img src="aboutMe.png" alt="Tech Support"/>
+</div>
 <h2></h2>
 <!-- Using blank h2 element for giving horizontal line. I know I can use use <hr> but I want to use this only 😤 -->
 
