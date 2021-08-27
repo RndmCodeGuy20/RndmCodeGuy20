@@ -21,6 +21,7 @@
 <!-- Using blank h2 element for giving horizontal line. I know I can use use <hr> but I want to use this only 😤 -->
 
 <img align='left' src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"><em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :blush:</em>
+<br>
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shantanu-mane-035665212/)
 [<img src="https://img.shields.io/github/followers/RndmCodeGuy20?label=follow&style=social" height="22" title="Follow me" />](https://github.com/RndmCodeGuy20)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/shantheman.20)
