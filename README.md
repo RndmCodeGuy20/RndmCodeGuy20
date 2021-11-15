@@ -9,7 +9,7 @@
  
 - 💻 I'm a Programmer! <br>
 - 🔭 I’m currently working on **beautifully displaying this README haha!** <br>
-- 🌱 I’m currently learning **Java, Fullstack Development, Competitive Programming** <br>
+- 🌱 I’m currently learning **Machine Learning, Cloud Computing, Data Structures and Algorithms** <br>
 - 👯 If you have any projects you would like to collaborate, reach out to me.<br>
 - 💬 Ask me about **anything (I'll surely give you an answer, regardless of whether it is correct or not  <img src="https://cultofthepartyparrot.com/parrots/slomoparrot.gif" width="30" height="30"/>)** <br>
 - ⚡ Fun fact: I casually like to play the piano / keyboard / synthesizer🎹 <br>
