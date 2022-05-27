@@ -65,11 +65,7 @@ Currently a sophomore at SRCOEM, pursuing my bachelor's degree in Computer Scien
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![IoT](https://img.shields.io/badge/espressif-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 
-<center>
-
-![Stats](https://github-readme-stats.vercel.app/api?username=RndmCodeGuy20&theme=jolly)
-
-</center>
+[<img alt="gmail" src="https://github-readme-stats.vercel.app/api?username=RndmCodeGuy20&theme=jolly" align="center" />](https://maneshantanu.herokuapp.com)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=RndmCodeGuy20.RndmCodeGuy20)
 
