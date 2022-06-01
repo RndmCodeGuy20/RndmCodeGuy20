@@ -2,7 +2,7 @@
 
 Currently a sophomore at SRCOEM, pursuing my bachelor's degree in Computer Science Engineering with a specialization in AI and ML.
 
-<img align='right' src='assets/good-morning-aviators.gif' width='200'>
+<img align='right' src='assets/high-five.gif' width='200'>
 
 - 💻 I'm a Developer! <br>
 - 🔭 I’m currently working on maintaining my **sanity**... <br>
@@ -27,9 +27,9 @@ Currently a sophomore at SRCOEM, pursuing my bachelor's degree in Computer Scien
 4. 💪 Opened PR [#3](https://github.com/samirajani18/project_B4/pull/3) in [samirajani18/project_B4](https://github.com/samirajani18/project_B4)
 <!--END_SECTION:activity-->
 
-![](./profile-3d-contrib/profile-green-animate.svg)
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 
-<img align='right' src='https://spotify-github-profile.vercel.app/api/view.svg?uid=vn07i7j19cx52zx7o8rotbm8b&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true' width='200"'>
+<img align='right' src='https://spotify-github-profile.vercel.app/api/view.svg?uid=vn07i7j19cx52zx7o8rotbm8b&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true' width='200'>
 
 ### 🧑‍💻 My Tech Stack 🤖
 
