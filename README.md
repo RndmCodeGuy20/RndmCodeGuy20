@@ -2,10 +2,10 @@
 
 Currently a sophomore at SRCOEM, pursuing my bachelor's degree in Computer Science Engineering with a specialization in AI and ML.
 
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
- 
+<img align='right' src='assets/good-morning-aviators.gif' width='200"'>
+
 - 💻 I'm a Developer! <br>
-- 🔭 I’m currently working on...  <br>
+- 🔭 I’m currently working on maintaining my **sanity**... <br>
 - 🌱 I’m currently learning **Embedded Coding, Deep Learning, Backend Development and IoT.** <br>
 - 👯 If you have any projects you would like to collaborate, reach out to me on my [website]('https://maneshantanu.herokuapp.com').<br>
 - 🚵 Trying to make this world a better place... <br>
@@ -20,6 +20,7 @@ Currently a sophomore at SRCOEM, pursuing my bachelor's degree in Computer Scien
 [<img alt="stats" src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" />](https://profile-summary-for-github.com/user/RndmCodeGuy20)
 
 <!--START_SECTION:activity-->
+
 1. 💪 Opened PR [#2](https://github.com/RudraPratik30/Pratik-Agrawal-Portfolio/pull/2) in [RudraPratik30/Pratik-Agrawal-Portfolio](https://github.com/RudraPratik30/Pratik-Agrawal-Portfolio)
 2. ❗️ Opened issue [#1](https://github.com/interestingsanskar07/BMICALCULATOR/issues/1) in [interestingsanskar07/BMICALCULATOR](https://github.com/interestingsanskar07/BMICALCULATOR)
 3. 💪 Opened PR [#1](https://github.com/RudraPratik30/Pratik-Agrawal-Portfolio/pull/1) in [RudraPratik30/Pratik-Agrawal-Portfolio](https://github.com/RudraPratik30/Pratik-Agrawal-Portfolio)
@@ -78,7 +79,7 @@ Currently a sophomore at SRCOEM, pursuing my bachelor's degree in Computer Scien
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-[<img alt="gmail" src="https://github-readme-stats.vercel.app/api?username=RndmCodeGuy20&theme=jolly" align="center" />](https://maneshantanu.herokuapp.com)
+[<img alt="gmail" src="https://github-readme-stats.vercel.app/api?username=RndmCodeGuy20&theme=onedark" align="center" />](https://maneshantanu.herokuapp.com)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=RndmCodeGuy20.RndmCodeGuy20)
 
@@ -86,3 +87,4 @@ Currently a sophomore at SRCOEM, pursuing my bachelor's degree in Computer Scien
 
 <br />
 <img src="https://imgur.com/rilHVxA.png"/>
+![](assets/RndmCodeGuy20.png)
