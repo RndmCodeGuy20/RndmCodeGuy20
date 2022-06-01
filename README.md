@@ -2,7 +2,7 @@
 
 Currently a sophomore at SRCOEM, pursuing my bachelor's degree in Computer Science Engineering with a specialization in AI and ML.
 
-<img align='right' src='assets/good-morning-aviators.gif' width='200"'>
+<img align='right' src='assets/good-morning-aviators.gif' width='200'>
 
 - 💻 I'm a Developer! <br>
 - 🔭 I’m currently working on maintaining my **sanity**... <br>
