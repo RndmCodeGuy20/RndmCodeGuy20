@@ -17,6 +17,7 @@ Currently a sophomore at SRCOEM, pursuing my bachelor's degree in Computer Scien
 ![Discord](https://img.shields.io/badge/%3CRndmRadiowave20%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
 [<img alt="gmail" src="https://img.shields.io/badge/shantheman.20-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />](https://www.instagram.com/shantheman.20/)
 [<img alt="gmail" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://in.linkedin.com/in/rndmguy20)
+[<img alt="stats" src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" />](https://profile-summary-for-github.com/user/RndmCodeGuy20)
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
