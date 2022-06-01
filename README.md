@@ -20,6 +20,9 @@ Currently a sophomore at SRCOEM, pursuing my bachelor's degree in Computer Scien
 [<img alt="gmail" src="https://img.shields.io/badge/shantheman.20-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />](https://www.instagram.com/shantheman.20/)
 [<img alt="gmail" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://in.linkedin.com/in/rndmguy20)
 
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 ### 🧑‍💻 My Tech Stack 🤖
 
 #### 🎃 Languages I Use
