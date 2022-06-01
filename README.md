@@ -20,6 +20,10 @@ Currently a sophomore at SRCOEM, pursuing my bachelor's degree in Computer Scien
 [<img alt="stats" src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" />](https://profile-summary-for-github.com/user/RndmCodeGuy20)
 
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#2](https://github.com/RudraPratik30/Pratik-Agrawal-Portfolio/pull/2) in [RudraPratik30/Pratik-Agrawal-Portfolio](https://github.com/RudraPratik30/Pratik-Agrawal-Portfolio)
+2. ❗️ Opened issue [#1](https://github.com/interestingsanskar07/BMICALCULATOR/issues/1) in [interestingsanskar07/BMICALCULATOR](https://github.com/interestingsanskar07/BMICALCULATOR)
+3. 💪 Opened PR [#1](https://github.com/RudraPratik30/Pratik-Agrawal-Portfolio/pull/1) in [RudraPratik30/Pratik-Agrawal-Portfolio](https://github.com/RudraPratik30/Pratik-Agrawal-Portfolio)
+4. 💪 Opened PR [#3](https://github.com/samirajani18/project_B4/pull/3) in [samirajani18/project_B4](https://github.com/samirajani18/project_B4)
 <!--END_SECTION:activity-->
 
 <img align='right' src='https://spotify-github-profile.vercel.app/api/view.svg?uid=vn07i7j19cx52zx7o8rotbm8b&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true' width='200"'>
