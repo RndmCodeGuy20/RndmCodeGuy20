@@ -1,6 +1,4 @@
-# Hello, Shantanu Mane Here..! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">
-
-Student | Athlete | Abstract
+!['http://maneshantanu.herokuapp.com'](assets/Header.png)
 
 Currently a sophomore at SRCOEM, pursuing my bachelor's degree in Computer Science Engineering with a specialization in AI and ML.
 
