@@ -76,17 +76,9 @@ Currently a sophomore at SRCOEM, pursuing my bachelor's degree in Computer Scien
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![IoT](https://img.shields.io/badge/espressif-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 
-<!--START_SECTION:waka-->
-
-```text
-Other            12 hrs 34 mins  ███████████░░░░░░░░░░░░░░   43.63 %
-```
-
-<!--END_SECTION:waka-->
-
 [<img alt="gmail" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RndmCodeGuy20&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=jupyter%20notebook,html" align="right" />](https://profile-summary-for-github.com/user/RndmCodeGuy20)
 
-[<img alt="gmail" src="https://github-readme-stats.vercel.app/api?username=RndmCodeGuy20&theme=onedark" width='500'/>](https://profile-summary-for-github.com/user/RndmCodeGuy20)
+[<img alt="gmail" src="https://github-readme-stats.vercel.app/api?username=RndmCodeGuy20&theme=onedark" width='450'/>](https://profile-summary-for-github.com/user/RndmCodeGuy20)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=RndmCodeGuy20.RndmCodeGuy20)
 
