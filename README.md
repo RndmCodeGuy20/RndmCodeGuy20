@@ -21,10 +21,10 @@ Currently a sophomore at SRCOEM, pursuing my bachelor's degree in Computer Scien
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#50178](https://github.com/firstcontributions/first-contributions/issues/50178) in [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions)
-2. 💪 Opened PR [#50178](https://github.com/firstcontributions/first-contributions/pull/50178) in [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions)
-3. 💪 Opened PR [#2](https://github.com/RudraPratik30/Pratik-Agrawal-Portfolio/pull/2) in [RudraPratik30/Pratik-Agrawal-Portfolio](https://github.com/RudraPratik30/Pratik-Agrawal-Portfolio)
-4. ❗️ Opened issue [#1](https://github.com/interestingsanskar07/BMICALCULATOR/issues/1) in [interestingsanskar07/BMICALCULATOR](https://github.com/interestingsanskar07/BMICALCULATOR)
+1. ❗️ Opened issue [#1554](https://github.com/PKief/vscode-material-icon-theme/issues/1554) in [PKief/vscode-material-icon-theme](https://github.com/PKief/vscode-material-icon-theme)
+2. 🗣 Commented on [#50178](https://github.com/firstcontributions/first-contributions/issues/50178) in [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions)
+3. 💪 Opened PR [#50178](https://github.com/firstcontributions/first-contributions/pull/50178) in [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions)
+4. 💪 Opened PR [#2](https://github.com/RudraPratik30/Pratik-Agrawal-Portfolio/pull/2) in [RudraPratik30/Pratik-Agrawal-Portfolio](https://github.com/RudraPratik30/Pratik-Agrawal-Portfolio)
 <!--END_SECTION:activity-->
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
