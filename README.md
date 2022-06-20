@@ -21,10 +21,10 @@ Currently a sophomore at SRCOEM, pursuing my bachelor's degree in Computer Scien
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#72](https://github.com/HouariZegai/Calculator/pull/72) in [HouariZegai/Calculator](https://github.com/HouariZegai/Calculator)
-2. ❗️ Opened issue [#1554](https://github.com/PKief/vscode-material-icon-theme/issues/1554) in [PKief/vscode-material-icon-theme](https://github.com/PKief/vscode-material-icon-theme)
-3. 🗣 Commented on [#50178](https://github.com/firstcontributions/first-contributions/issues/50178) in [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions)
-4. 💪 Opened PR [#50178](https://github.com/firstcontributions/first-contributions/pull/50178) in [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions)
+1. 🎉 Merged PR [#1](https://github.com/RndmCodeWorkshop/Codespaces-Tryout/pull/1) in [RndmCodeWorkshop/Codespaces-Tryout](https://github.com/RndmCodeWorkshop/Codespaces-Tryout)
+2. 💪 Opened PR [#1](https://github.com/RndmCodeWorkshop/Codespaces-Tryout/pull/1) in [RndmCodeWorkshop/Codespaces-Tryout](https://github.com/RndmCodeWorkshop/Codespaces-Tryout)
+3. 💪 Opened PR [#72](https://github.com/HouariZegai/Calculator/pull/72) in [HouariZegai/Calculator](https://github.com/HouariZegai/Calculator)
+4. ❗️ Opened issue [#1554](https://github.com/PKief/vscode-material-icon-theme/issues/1554) in [PKief/vscode-material-icon-theme](https://github.com/PKief/vscode-material-icon-theme)
 <!--END_SECTION:activity-->
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
