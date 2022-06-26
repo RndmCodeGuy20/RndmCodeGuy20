@@ -21,10 +21,10 @@ Currently a sophomore at SRCOEM, pursuing my bachelor's degree in Computer Scien
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#577](https://github.com/material-theme/vsc-material-theme/pull/577) in [material-theme/vsc-material-theme](https://github.com/material-theme/vsc-material-theme)
-2. 🎉 Merged PR [#1](https://github.com/RndmCodeWorkshop/Codespaces-Tryout/pull/1) in [RndmCodeWorkshop/Codespaces-Tryout](https://github.com/RndmCodeWorkshop/Codespaces-Tryout)
-3. 💪 Opened PR [#1](https://github.com/RndmCodeWorkshop/Codespaces-Tryout/pull/1) in [RndmCodeWorkshop/Codespaces-Tryout](https://github.com/RndmCodeWorkshop/Codespaces-Tryout)
-4. 💪 Opened PR [#72](https://github.com/HouariZegai/Calculator/pull/72) in [HouariZegai/Calculator](https://github.com/HouariZegai/Calculator)
+1. 🎉 Merged PR [#1](https://github.com/RndmCodeWorkshop/RndmCodeWorkshop/pull/1) in [RndmCodeWorkshop/RndmCodeWorkshop](https://github.com/RndmCodeWorkshop/RndmCodeWorkshop)
+2. 💪 Opened PR [#1](https://github.com/RndmCodeWorkshop/RndmCodeWorkshop/pull/1) in [RndmCodeWorkshop/RndmCodeWorkshop](https://github.com/RndmCodeWorkshop/RndmCodeWorkshop)
+3. 💪 Opened PR [#50845](https://github.com/firstcontributions/first-contributions/pull/50845) in [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions)
+4. 💪 Opened PR [#577](https://github.com/material-theme/vsc-material-theme/pull/577) in [material-theme/vsc-material-theme](https://github.com/material-theme/vsc-material-theme)
 <!--END_SECTION:activity-->
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
