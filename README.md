@@ -29,7 +29,7 @@ Currently a sophomore at SRCOEM, pursuing my bachelor's degree in Computer Scien
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
-<img align='right' src='https://spotify-github-profile.vercel.app/api/view.svg?uid=vn07i7j19cx52zx7o8rotbm8b&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true' width='200'>
+<!---<img align='right' src='https://spotify-github-profile.vercel.app/api/view.svg?uid=vn07i7j19cx52zx7o8rotbm8b&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true' width='200'>-->
 
 ### 🧑‍💻 My Tech Stack 🤖
 
