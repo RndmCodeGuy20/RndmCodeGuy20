@@ -13,7 +13,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - name: setup node 12
-        uses: RndmCodeGuy20/GithubActionsGiphy@main
+        uses: RndmCodeGuy20/GithubActionsGiphy@master
         with:
           node-version: 12.x
       - name: Commit and push updated file
