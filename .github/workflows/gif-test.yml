@@ -16,7 +16,6 @@ jobs:
         uses: rndmcodeguy20/GithubActionsGiphy@main
         with:
           node-version: 12.x
-      - run: npm run start
       - name: Commit and push updated file
         run: |
           git config --global user.name "rndmcodeguy"
