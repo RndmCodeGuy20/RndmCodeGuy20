@@ -88,4 +88,4 @@ Currently a sophomore at SRCOEM, pursuing my bachelor's degree in Computer Scien
 <img src="https://imgur.com/rilHVxA.png"/>
 
 ![](assets/RndmCodeGuy20.png)
-<!-- #image --><img align="center" src="https://apod.nasa.gov/apod/image/2206/2017K2_2022-06-20_media1024.jpg"></br><!-- #end -->
+<!-- #image --><img align="center" src="https://apod.nasa.gov/apod/image/0904/blackhole_hobart.jpg"></br><!-- #end -->
