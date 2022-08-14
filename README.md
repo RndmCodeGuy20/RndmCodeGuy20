@@ -21,10 +21,10 @@ Currently a sophomore at SRCOEM, pursuing my bachelor's degree in Computer Scien
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#51165](https://github.com/firstcontributions/first-contributions/pull/51165) in [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions)
-2. ❌ Closed PR [#50178](https://github.com/firstcontributions/first-contributions/pull/50178) in [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions)
-3. ❗️ Opened issue [#1](https://github.com/RudraPratik30/Pac-Man/issues/1) in [RudraPratik30/Pac-Man](https://github.com/RudraPratik30/Pac-Man)
-4. 🎉 Merged PR [#1](https://github.com/RndmCodeWorkshop/RndmCodeWorkshop/pull/1) in [RndmCodeWorkshop/RndmCodeWorkshop](https://github.com/RndmCodeWorkshop/RndmCodeWorkshop)
+1. 🎉 Merged PR [#1](https://github.com/MetaDataRCOEM/SIH-Main-App/pull/1) in [MetaDataRCOEM/SIH-Main-App](https://github.com/MetaDataRCOEM/SIH-Main-App)
+2. 💪 Opened PR [#1](https://github.com/MetaDataRCOEM/SIH-Main-App/pull/1) in [MetaDataRCOEM/SIH-Main-App](https://github.com/MetaDataRCOEM/SIH-Main-App)
+3. 💪 Opened PR [#51165](https://github.com/firstcontributions/first-contributions/pull/51165) in [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions)
+4. ❌ Closed PR [#50178](https://github.com/firstcontributions/first-contributions/pull/50178) in [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions)
 <!--END_SECTION:activity-->
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
