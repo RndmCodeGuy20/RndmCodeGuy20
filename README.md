@@ -21,10 +21,10 @@ Currently a sophomore at SRCOEM, pursuing my bachelor's degree in Computer Scien
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#2](https://github.com/MetaDataRCOEM/SIH-Main-App/pull/2) in [MetaDataRCOEM/SIH-Main-App](https://github.com/MetaDataRCOEM/SIH-Main-App)
-2. 💪 Opened PR [#2](https://github.com/MetaDataRCOEM/SIH-Main-App/pull/2) in [MetaDataRCOEM/SIH-Main-App](https://github.com/MetaDataRCOEM/SIH-Main-App)
-3. 🎉 Merged PR [#1](https://github.com/MetaDataRCOEM/SIH-Main-App/pull/1) in [MetaDataRCOEM/SIH-Main-App](https://github.com/MetaDataRCOEM/SIH-Main-App)
-4. 💪 Opened PR [#1](https://github.com/MetaDataRCOEM/SIH-Main-App/pull/1) in [MetaDataRCOEM/SIH-Main-App](https://github.com/MetaDataRCOEM/SIH-Main-App)
+1. 🗣 Commented on [#3](https://github.com/MetaDataRCOEM/SIH-Main-App/issues/3) in [MetaDataRCOEM/SIH-Main-App](https://github.com/MetaDataRCOEM/SIH-Main-App)
+2. ❗️ Opened issue [#3](https://github.com/MetaDataRCOEM/SIH-Main-App/issues/3) in [MetaDataRCOEM/SIH-Main-App](https://github.com/MetaDataRCOEM/SIH-Main-App)
+3. 🎉 Merged PR [#2](https://github.com/MetaDataRCOEM/SIH-Main-App/pull/2) in [MetaDataRCOEM/SIH-Main-App](https://github.com/MetaDataRCOEM/SIH-Main-App)
+4. 💪 Opened PR [#2](https://github.com/MetaDataRCOEM/SIH-Main-App/pull/2) in [MetaDataRCOEM/SIH-Main-App](https://github.com/MetaDataRCOEM/SIH-Main-App)
 <!--END_SECTION:activity-->
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
