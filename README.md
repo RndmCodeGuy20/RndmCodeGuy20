@@ -61,7 +61,7 @@ Currently a sophomore at SRCOEM, pursuing my bachelor's degree in Computer Scien
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
-#### <img src="https://c.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif" width="40"> IDEs I Use
+#### <img src="https://c.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif" width="10"> IDEs I Use
 
 ![VSC](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![PY](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
