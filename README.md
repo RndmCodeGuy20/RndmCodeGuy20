@@ -2,7 +2,7 @@
 
 Currently a sophomore at SRCOEM, pursuing my bachelor's degree in Computer Science Engineering with a specialization in AI and ML.
 
-<img align='right' src='assets/high-five.gif' width='200'>
+<a href="https://app.daily.dev/RndmCodeGuy20"><img src="https://api.daily.dev/devcards/6309a96af2854ef2bbe38c6a9b292742.png?r=7ha" align="right" width="200" alt="Shantanu Mane's Dev Card"/></a>
 
 - 💻 I'm a Developer! <br>
 - 🔭 I’m currently working on maintaining my **sanity**... <br>
