@@ -21,10 +21,10 @@ Currently a sophomore at SRCOEM, pursuing my bachelor's degree in Computer Scien
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#3](https://github.com/MetaDataRCOEM/UserAuthBackend/pull/3) in [MetaDataRCOEM/UserAuthBackend](https://github.com/MetaDataRCOEM/UserAuthBackend)
-2. 🎉 Merged PR [#2](https://github.com/MetaDataRCOEM/UserAuthBackend/pull/2) in [MetaDataRCOEM/UserAuthBackend](https://github.com/MetaDataRCOEM/UserAuthBackend)
-3. 🎉 Merged PR [#1](https://github.com/MetaDataRCOEM/UserAuthBackend/pull/1) in [MetaDataRCOEM/UserAuthBackend](https://github.com/MetaDataRCOEM/UserAuthBackend)
-4. 💪 Opened PR [#3](https://github.com/RndmCodeGuy20/RndmCodeGuy20/pull/3) in [RndmCodeGuy20/RndmCodeGuy20](https://github.com/RndmCodeGuy20/RndmCodeGuy20)
+1. 🎉 Merged PR [#1](https://github.com/RndmCodeGuy20/SIH-Main-RP/pull/1) in [RndmCodeGuy20/SIH-Main-RP](https://github.com/RndmCodeGuy20/SIH-Main-RP)
+2. 🗣 Commented on [#1](https://github.com/RndmCodeGuy20/SIH-Main-RP/issues/1) in [RndmCodeGuy20/SIH-Main-RP](https://github.com/RndmCodeGuy20/SIH-Main-RP)
+3. 🎉 Merged PR [#3](https://github.com/MetaDataRCOEM/UserAuthBackend/pull/3) in [MetaDataRCOEM/UserAuthBackend](https://github.com/MetaDataRCOEM/UserAuthBackend)
+4. 🎉 Merged PR [#2](https://github.com/MetaDataRCOEM/UserAuthBackend/pull/2) in [MetaDataRCOEM/UserAuthBackend](https://github.com/MetaDataRCOEM/UserAuthBackend)
 <!--END_SECTION:activity-->
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
