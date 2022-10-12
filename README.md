@@ -21,10 +21,10 @@ Currently a sophomore at SRCOEM, pursuing my bachelor's degree in Computer Scien
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#49](https://github.com/mohitchandak/Study-Material-khaz-n-/pull/49) in [mohitchandak/Study-Material-khaz-n-](https://github.com/mohitchandak/Study-Material-khaz-n-)
-2. 🎉 Merged PR [#1](https://github.com/RndmCodeGuy20/SIH-Main-RP/pull/1) in [RndmCodeGuy20/SIH-Main-RP](https://github.com/RndmCodeGuy20/SIH-Main-RP)
-3. 🗣 Commented on [#1](https://github.com/RndmCodeGuy20/SIH-Main-RP/issues/1) in [RndmCodeGuy20/SIH-Main-RP](https://github.com/RndmCodeGuy20/SIH-Main-RP)
-4. 🎉 Merged PR [#3](https://github.com/MetaDataRCOEM/UserAuthBackend/pull/3) in [MetaDataRCOEM/UserAuthBackend](https://github.com/MetaDataRCOEM/UserAuthBackend)
+1. ❗️ Opened issue [#212](https://github.com/Keerat666/LeetCode-HacktoberFest22/issues/212) in [Keerat666/LeetCode-HacktoberFest22](https://github.com/Keerat666/LeetCode-HacktoberFest22)
+2. ❗️ Opened issue [#211](https://github.com/Keerat666/LeetCode-HacktoberFest22/issues/211) in [Keerat666/LeetCode-HacktoberFest22](https://github.com/Keerat666/LeetCode-HacktoberFest22)
+3. 💪 Opened PR [#49](https://github.com/mohitchandak/Study-Material-khaz-n-/pull/49) in [mohitchandak/Study-Material-khaz-n-](https://github.com/mohitchandak/Study-Material-khaz-n-)
+4. 🎉 Merged PR [#1](https://github.com/RndmCodeGuy20/SIH-Main-RP/pull/1) in [RndmCodeGuy20/SIH-Main-RP](https://github.com/RndmCodeGuy20/SIH-Main-RP)
 <!--END_SECTION:activity-->
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
