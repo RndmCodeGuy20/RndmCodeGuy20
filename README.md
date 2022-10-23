@@ -80,7 +80,7 @@ Currently a sophomore at SRCOEM, pursuing my bachelor's degree in Computer Scien
 
 [<img alt="gmail" src="https://github-readme-stats.vercel.app/api?username=RndmCodeGuy20&theme=onedark" width='450'/>](https://profile-summary-for-github.com/user/RndmCodeGuy20)
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=RndmCodeGuy20.RndmCodeGuy20)
+<img alt="Vistiors" src="https://visitor-badge.laobi.icu/badge?page_id=RndmCodeGuy20.RndmCodeGuy20" align="center"/>
 
 ## ⭐️ From [Shantanu Mane](https://github.com/RndmCodeGuy20/RndmCodeGuy20)
 
