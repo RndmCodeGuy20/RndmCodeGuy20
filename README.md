@@ -21,9 +21,9 @@ Currently a sophomore at SRCOEM, pursuing my bachelor's degree in Computer Scien
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#1932](https://github.com/Vishal-raj-1/Awesome-JavaScript-Projects/issues/1932) in [Vishal-raj-1/Awesome-JavaScript-Projects](https://github.com/Vishal-raj-1/Awesome-JavaScript-Projects)
-2. 💪 Opened PR [#2782](https://github.com/ossamamehmood/Hacktoberfest2022/pull/2782) in [ossamamehmood/Hacktoberfest2022](https://github.com/ossamamehmood/Hacktoberfest2022)
-3. 🗣 Commented on [#226](https://github.com/Keerat666/LeetCode-HacktoberFest22/issues/226) in [Keerat666/LeetCode-HacktoberFest22](https://github.com/Keerat666/LeetCode-HacktoberFest22)
+1. 🎉 Merged PR [#4](https://github.com/RndmCodeGuy20/RndmCodeGuy20/pull/4) in [RndmCodeGuy20/RndmCodeGuy20](https://github.com/RndmCodeGuy20/RndmCodeGuy20)
+2. ❗️ Opened issue [#1932](https://github.com/Vishal-raj-1/Awesome-JavaScript-Projects/issues/1932) in [Vishal-raj-1/Awesome-JavaScript-Projects](https://github.com/Vishal-raj-1/Awesome-JavaScript-Projects)
+3. 💪 Opened PR [#2782](https://github.com/ossamamehmood/Hacktoberfest2022/pull/2782) in [ossamamehmood/Hacktoberfest2022](https://github.com/ossamamehmood/Hacktoberfest2022)
 4. 🗣 Commented on [#226](https://github.com/Keerat666/LeetCode-HacktoberFest22/issues/226) in [Keerat666/LeetCode-HacktoberFest22](https://github.com/Keerat666/LeetCode-HacktoberFest22)
 <!--END_SECTION:activity-->
 
