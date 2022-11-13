@@ -88,4 +88,4 @@ Currently a sophomore at SRCOEM, pursuing my bachelor's degree in Computer Scien
 <img src="https://imgur.com/rilHVxA.png"/>
 
 ![](assets/RndmCodeGuy20.png)
-<!-- #image --><img align="center" src="https://apod.nasa.gov/apod/image/0108/phobos_vik1_r1.jpg"></br><!-- #end -->
+<!-- #image --><img align="center" src="https://apod.nasa.gov/apod/image/0707/northpoleclouds_AIMData_c.jpg"></br><!-- #end -->
