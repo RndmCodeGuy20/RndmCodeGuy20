@@ -1,4 +1,4 @@
-!['http://maneshantanu.herokuapp.com'](assets/Header.png)
+<img src="https://dynamic-header-og.vercel.app/api/og_test" width="100%"/>
 
 Currently a sophomore at SRCOEM, pursuing my bachelor's degree in Computer Science Engineering with a specialization in AI and ML.
 
