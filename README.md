@@ -1,4 +1,5 @@
-<img src="https://dynamic-header-og.vercel.app/api/og_test" width="100%"/>
+![Github HeaderHeader](https://user-images.githubusercontent.com/78042851/210162856-ebedd08e-854b-4be4-a2d2-9b6dcd63ad82.svg)
+
 
 Currently a sophomore at SRCOEM, pursuing my bachelor's degree in Computer Science Engineering with a specialization in AI and ML.
 
