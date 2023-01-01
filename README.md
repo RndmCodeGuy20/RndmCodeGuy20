@@ -1,4 +1,4 @@
-![Github HeaderHeader](https://user-images.githubusercontent.com/78042851/210162856-ebedd08e-854b-4be4-a2d2-9b6dcd63ad82.svg)
+![Group 4](https://user-images.githubusercontent.com/78042851/210162903-bad390bb-4355-4002-89bd-a1ddcd031371.svg)
 
 
 Currently a sophomore at SRCOEM, pursuing my bachelor's degree in Computer Science Engineering with a specialization in AI and ML.
