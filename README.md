@@ -76,7 +76,7 @@ Currently a sophomore at SRCOEM, pursuing my bachelor's degree in Computer Scien
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![IoT](https://img.shields.io/badge/espressif-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 
-[<img alt="gmail" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RndmCodeGuy20&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=jupyter%20notebook,html" align="right" />](https://profile-summary-for-github.com/user/RndmCodeGuy20)
+[<img alt="gmail" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RndmCodeGuy20&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=jupyter%20notebook,html,dart" align="right" />](https://profile-summary-for-github.com/user/RndmCodeGuy20)
 
 [<img alt="gmail" src="https://github-readme-stats.vercel.app/api?username=RndmCodeGuy20&theme=onedark" width='450'/>](https://profile-summary-for-github.com/user/RndmCodeGuy20)
 
