@@ -20,13 +20,6 @@ Software Developer (Mobile)...
 [<img alt="gmail" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://in.linkedin.com/in/maneshantanu20)
 [<img alt="stats" src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" />](https://profile-summary-for-github.com/user/RndmCodeGuy20)
 
-<!--START_SECTION:activity-->
-<!-- 1. 🎉 Merged PR [#4](https://github.com/RndmCodeGuy20/RndmCodeGuy20/pull/4) in [RndmCodeGuy20/RndmCodeGuy20](https://github.com/RndmCodeGuy20/RndmCodeGuy20) -->
-<!-- 2. ❗️ Opened issue [#1932](https://github.com/Vishal-raj-1/Awesome-JavaScript-Projects/issues/1932) in [Vishal-raj-1/Awesome-JavaScript-Projects](https://github.com/Vishal-raj-1/Awesome-JavaScript-Projects) -->
-<!-- 3. 💪 Opened PR [#2782](https://github.com/ossamamehmood/Hacktoberfest2022/pull/2782) in [ossamamehmood/Hacktoberfest2022](https://github.com/ossamamehmood/Hacktoberfest2022) -->
-<!-- 4. 🗣 Commented on [#226](https://github.com/Keerat666/LeetCode-HacktoberFest22/issues/226) in [Keerat666/LeetCode-HacktoberFest22](https://github.com/Keerat666/LeetCode-HacktoberFest22) -->
-<!--END_SECTION:activity-->
-
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 <!---<img align='right' src='https://spotify-github-profile.vercel.app/api/view.svg?uid=vn07i7j19cx52zx7o8rotbm8b&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true' width='200'>-->
