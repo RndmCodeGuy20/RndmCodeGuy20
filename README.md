@@ -5,30 +5,62 @@
 
 ---
 
-### engineer / tinkerer / builder
+### builder of things that mostly work
 
-i build systems that are predictable, observable, and slightly over-engineered on purpose.
+i write code that is supposed to be boring in production and interesting in the commit history.
+most of my systems ship a kill switch. i have never needed one. i keep it anyway.
 
 ---
 
 ## now
 
-- building a leetcode-like ML judge with sandboxed execution (go + containers)
-- exploring observability (opentelemetry, lgtm stack)
-- refining server-driven UI systems
+<!--START_SECTION:now-->
+- dotmind → https://github.com/RndmCodeGuy20/dotmind, 5 commits this week
+- RndmCodeGuy20 → https://github.com/RndmCodeGuy20/RndmCodeGuy20, 1 commit this week
+<!--END_SECTION:now-->
+
+*updates weekly, ranked by commits in the last 7 days*
 
 ---
 
 ## work
 
-- **nudge core**  
-  server-driven UI + templating + runtime orchestration
+**[sentinel](https://github.com/RndmCodeGuy20/sentinel)**  
+hardened docker sandbox for untrusted code. 11 layers of defense between a stranger's solution.py and the host, and the runner itself is not allowed to know if the answer was right.  
+![Go](https://img.shields.io/badge/Go-0E0E0D?style=flat-square&logo=go&logoColor=C8B89A)
+![Docker](https://img.shields.io/badge/Docker-0E0E0D?style=flat-square&logo=docker&logoColor=C8B89A)
+![gVisor](https://img.shields.io/badge/gVisor-0E0E0D?style=flat-square&logo=google&logoColor=C8B89A)
+[![CI](https://img.shields.io/github/actions/workflow/status/RndmCodeGuy20/sentinel/e2e.yml?style=flat-square&label=e2e&color=0E0E0D&labelColor=161614)](https://github.com/RndmCodeGuy20/sentinel/actions/workflows/e2e.yml)
+[![Release](https://img.shields.io/github/actions/workflow/status/RndmCodeGuy20/sentinel/release.yml?style=flat-square&label=release&color=0E0E0D&labelColor=161614)](https://github.com/RndmCodeGuy20/sentinel/actions/workflows/release.yml)
 
-- **og image pipeline**  
-  browser-rendered visuals using workers + edge compute
+**[mpiper](https://github.com/RndmCodeGuy20/mpiper)**  
+media processing pipeline, go api and python workers arguing over redis streams. bounded worker pool gets ~2.4x throughput, dead letters get a stream of their own instead of getting dropped on the floor.  
+![Go](https://img.shields.io/badge/Go-0E0E0D?style=flat-square&logo=go&logoColor=C8B89A)
+![Python](https://img.shields.io/badge/Python-0E0E0D?style=flat-square&logo=python&logoColor=C8B89A)
+![Redis](https://img.shields.io/badge/Redis-0E0E0D?style=flat-square&logo=redis&logoColor=C8B89A)
+[![CI](https://img.shields.io/github/actions/workflow/status/RndmCodeGuy20/mpiper/ci.yml?style=flat-square&label=ci&color=0E0E0D&labelColor=161614)](https://github.com/RndmCodeGuy20/mpiper/actions/workflows/ci.yml)
+[![Release](https://img.shields.io/github/actions/workflow/status/RndmCodeGuy20/mpiper/release-lts.yml?style=flat-square&label=release&color=0E0E0D&labelColor=161614)](https://github.com/RndmCodeGuy20/mpiper/actions/workflows/release-lts.yml)
 
-- **ml judge system**  
-  containerized execution engine for evaluating models/code
+**[golem](https://github.com/RndmCodeGuy20/golem)**  
+the orchestrator sentinel answers to. spins up ephemeral containers, claims jobs off redis streams, decides verdicts so the sandbox doesn't have to.  
+![Go](https://img.shields.io/badge/Go-0E0E0D?style=flat-square&logo=go&logoColor=C8B89A)
+![Redis](https://img.shields.io/badge/Redis-0E0E0D?style=flat-square&logo=redis&logoColor=C8B89A)
+![PostgreSQL](https://img.shields.io/badge/Postgres-0E0E0D?style=flat-square&logo=postgresql&logoColor=C8B89A)
+[![CI](https://img.shields.io/github/actions/workflow/status/RndmCodeGuy20/golem/ci.yml?style=flat-square&label=ci&color=0E0E0D&labelColor=161614)](https://github.com/RndmCodeGuy20/golem/actions/workflows/ci.yml)
+
+**[notebook](https://github.com/RndmCodeGuy20/notebook)**  
+this portfolio's actual home. tracks every visitor scroll over sse and redis pub/sub, mostly so i can watch nobody scroll past the hero section in real time.  
+![Next.js](https://img.shields.io/badge/Next.js-0E0E0D?style=flat-square&logo=next.js&logoColor=C8B89A)
+![Tailwind](https://img.shields.io/badge/Tailwind-0E0E0D?style=flat-square&logo=tailwindcss&logoColor=C8B89A)
+![Railway](https://img.shields.io/badge/Railway-0E0E0D?style=flat-square&logo=railway&logoColor=C8B89A)
+[![Build](https://img.shields.io/github/actions/workflow/status/RndmCodeGuy20/notebook/build.yml?style=flat-square&label=build&color=0E0E0D&labelColor=161614)](https://github.com/RndmCodeGuy20/notebook/actions/workflows/build.yml)
+
+**[mini_dns](https://github.com/RndmCodeGuy20/mini_dns)** (aegis)  
+an esp32 that resolves hostnames, sinkholes ad domains, and serves a crud api and prometheus metrics, all on a chip smaller than the badges below.  
+![C++](https://img.shields.io/badge/C%2B%2B-0E0E0D?style=flat-square&logo=cplusplus&logoColor=C8B89A)
+![ESP-IDF](https://img.shields.io/badge/ESP--IDF-0E0E0D?style=flat-square&logo=espressif&logoColor=C8B89A)
+![Prometheus](https://img.shields.io/badge/Prometheus-0E0E0D?style=flat-square&logo=prometheus&logoColor=C8B89A)
+[![CI](https://img.shields.io/github/actions/workflow/status/RndmCodeGuy20/mini_dns/ci.yml?style=flat-square&label=ci&color=0E0E0D&labelColor=161614)](https://github.com/RndmCodeGuy20/mini_dns/actions/workflows/ci.yml)
 
 ---
 
@@ -48,7 +80,7 @@ i build systems that are predictable, observable, and slightly over-engineered o
 
 ## notes
 
-i document how things actually work — failures included.
+i document how things actually work, failures included.
 
 → https://notebook.rndmcode.in
 

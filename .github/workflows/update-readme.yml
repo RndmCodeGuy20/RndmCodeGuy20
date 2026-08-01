@@ -1,0 +1,37 @@
+name: Update-Readme
+
+on:
+  schedule: # 23:59 UTC Sat == 08:59 JST Sun
+    - cron: "59 23 * * 6"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    name: weekly-readme-refresh
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate 3d contribution heatmap
+        uses: yoshi389111/github-profile-3d-contrib@v0.9.2
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+          SETTING_JSON: profile-3d-contrib/settings.json
+
+      - name: Rank weekly commits into now section
+        env:
+          GH_TOKEN: ${{ secrets.PROFILE_PAT }}
+        run: bash scripts/update-now.sh
+
+      - name: Commit & Push
+        run: |
+          git config user.name "rndmcodeguy20"
+          git config user.email "shantanu.mane.200@outlook.com"
+          git add -A .
+          git diff --cached --quiet && exit 0
+          git commit -m "chore(readme) 🎛️: weekly heatmap and now section refresh"
+          git push
