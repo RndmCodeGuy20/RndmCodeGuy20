@@ -80,7 +80,7 @@ an esp32 that resolves hostnames, sinkholes ad domains, and serves a crud api an
 
 ## notes
 
-i document how things actually work, failures included.
+i write down what actually happened, not what the postmortem template wants me to say happened.
 
 → https://notebook.rndmcode.in
 
@@ -90,4 +90,5 @@ i document how things actually work, failures included.
 
 - site → https://notebook.rndmcode.in
 - mail → maneshantanu.20@gmail.com
-- github → you're already here
+- github → you're already here, might as well star something
+- response time → faster for bug reports than for "quick questions"
