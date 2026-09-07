@@ -1,16 +1,18 @@
 ![Group 4](https://user-images.githubusercontent.com/78042851/210162903-bad390bb-4355-4002-89bd-a1ddcd031371.svg)
 
 
-Software Developer (Mobile)...
+Engineer in a rabbithole
 
 <img align='right' src='assets/high-five.gif' width='200'>
 
-- 💻 I'm a Developer! <br>
-- 🔭 I’m currently working on maintaining my **sanity**... <br>
-- 🌱 I’m currently learning **Embedded Coding, Deep Learning, Backend Development and IoT.** <br>
-- 👯 If you have any projects you would like to collaborate, reach out to me on my [website]('https://maneshantanu.herokuapp.com').<br>
-- 🚵 Trying to make this world a better place... <br>
-- ⚡ Fun fact: I casually like to play the 🎹 <br>
+I build software that just works — smooth, clean, and scalable. From mobile apps to full-stack platforms, I like to keep things simple on the surface and solid under the hood.
+- 🌱 Always picking up new things — right now it’s deep learning, embedded systems, and whatever rabbit hole I fall into next.
+- 🎯 I obsess over the little details so the big picture runs beautifully.
+- 🎹 I play piano when the bugs get too real.
+- 👀 On the lookout for projects that are fun, thoughtful, and just a bit ambitious.
+- 🌍 Trying to leave the codebase (and the world) better than I found it.
+
+Let’s build something cool: maneshantanu.herokuapp.com
 
 ### ☎️ Ways to reach me 👉
 
