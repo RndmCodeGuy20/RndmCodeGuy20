@@ -1,88 +1,88 @@
-![Group 4](https://user-images.githubusercontent.com/78042851/210162903-bad390bb-4355-4002-89bd-a1ddcd031371.svg)
+<!-- hero image -->
+<p align="center">
+  <img src="./assets/github header.png" alt="shantanu mane" width="100%"/>
+</p>
 
+---
 
-Software Developer (Mobile)...
+### builder of things that mostly work
 
-<img align='right' src='assets/high-five.gif' width='200'>
+i write code that is supposed to be boring in production and interesting in the commit history.
+most of my systems ship a kill switch. i have never needed one. i keep it anyway.
 
-- 💻 I'm a Developer! <br>
-- 🔭 I’m currently working on maintaining my **sanity**... <br>
-- 🌱 I’m currently learning **Embedded Coding, Deep Learning, Backend Development and IoT.** <br>
-- 👯 If you have any projects you would like to collaborate, reach out to me on my [website]('https://maneshantanu.herokuapp.com').<br>
-- 🚵 Trying to make this world a better place... <br>
-- ⚡ Fun fact: I casually like to play the 🎹 <br>
+---
 
-### ☎️ Ways to reach me 👉
+## now
 
-![shantanu.mane.200@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-![Discord](https://img.shields.io/badge/%3CRndmRadiowave20%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
-[<img alt="gmail" src="https://img.shields.io/badge/shantheman.20-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />](https://www.instagram.com/shantheman.20/)
-[<img alt="gmail" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://in.linkedin.com/in/maneshantanu20)
-[<img alt="stats" src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" />](https://profile-summary-for-github.com/user/RndmCodeGuy20)
+<!--START_SECTION:now-->
+- dotmind → https://github.com/RndmCodeGuy20/dotmind, 5 commits this week
+- RndmCodeGuy20 → https://github.com/RndmCodeGuy20/RndmCodeGuy20, 1 commit this week
+<!--END_SECTION:now-->
 
-<!--START_SECTION:activity-->
-<!-- 1. 🎉 Merged PR [#4](https://github.com/RndmCodeGuy20/RndmCodeGuy20/pull/4) in [RndmCodeGuy20/RndmCodeGuy20](https://github.com/RndmCodeGuy20/RndmCodeGuy20) -->
-<!-- 2. ❗️ Opened issue [#1932](https://github.com/Vishal-raj-1/Awesome-JavaScript-Projects/issues/1932) in [Vishal-raj-1/Awesome-JavaScript-Projects](https://github.com/Vishal-raj-1/Awesome-JavaScript-Projects) -->
-<!-- 3. 💪 Opened PR [#2782](https://github.com/ossamamehmood/Hacktoberfest2022/pull/2782) in [ossamamehmood/Hacktoberfest2022](https://github.com/ossamamehmood/Hacktoberfest2022) -->
-<!-- 4. 🗣 Commented on [#226](https://github.com/Keerat666/LeetCode-HacktoberFest22/issues/226) in [Keerat666/LeetCode-HacktoberFest22](https://github.com/Keerat666/LeetCode-HacktoberFest22) -->
-<!--END_SECTION:activity-->
+*updates weekly, ranked by commits in the last 7 days*
 
-![](./profile-3d-contrib/profile-night-rainbow.svg)
+---
 
-<!---<img align='right' src='https://spotify-github-profile.vercel.app/api/view.svg?uid=vn07i7j19cx52zx7o8rotbm8b&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true' width='200'>-->
+## work
 
-### 🧑‍💻 My Tech Stack 🤖
+**[sentinel](https://github.com/RndmCodeGuy20/sentinel)**  
+hardened docker sandbox for untrusted code. 11 layers of defense between a stranger's solution.py and the host, and the runner itself is not allowed to know if the answer was right.  
+![Go](https://img.shields.io/badge/Go-0E0E0D?style=flat-square&logo=go&logoColor=C8B89A)
+![Docker](https://img.shields.io/badge/Docker-0E0E0D?style=flat-square&logo=docker&logoColor=C8B89A)
+![gVisor](https://img.shields.io/badge/gVisor-0E0E0D?style=flat-square&logo=google&logoColor=C8B89A)
+![e2e](https://img.shields.io/badge/e2e-passing-C8B89A?style=flat-square&labelColor=161614)
+![release](https://img.shields.io/badge/release-passing-C8B89A?style=flat-square&labelColor=161614)
 
-#### 🎃 Languages I Use
+**[mpiper](https://github.com/RndmCodeGuy20/mpiper)**  
+media processing pipeline, go api and python workers arguing over redis streams. bounded worker pool gets ~2.4x throughput, dead letters get a stream of their own instead of getting dropped on the floor.  
+![Go](https://img.shields.io/badge/Go-0E0E0D?style=flat-square&logo=go&logoColor=C8B89A)
+![Python](https://img.shields.io/badge/Python-0E0E0D?style=flat-square&logo=python&logoColor=C8B89A)
+![Redis](https://img.shields.io/badge/Redis-0E0E0D?style=flat-square&logo=redis&logoColor=C8B89A)
+[![CI](https://img.shields.io/github/actions/workflow/status/RndmCodeGuy20/mpiper/ci.yml?style=flat-square&label=ci&color=0E0E0D&labelColor=161614)](https://github.com/RndmCodeGuy20/mpiper/actions/workflows/ci.yml)
+[![Release](https://img.shields.io/github/actions/workflow/status/RndmCodeGuy20/mpiper/release-lts.yml?style=flat-square&label=release&color=0E0E0D&labelColor=161614)](https://github.com/RndmCodeGuy20/mpiper/actions/workflows/release-lts.yml)
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+**[golem](https://github.com/RndmCodeGuy20/golem)**  
+the orchestrator sentinel answers to. spins up ephemeral containers, claims jobs off redis streams, decides verdicts so the sandbox doesn't have to.  
+![Go](https://img.shields.io/badge/Go-0E0E0D?style=flat-square&logo=go&logoColor=C8B89A)
+![Redis](https://img.shields.io/badge/Redis-0E0E0D?style=flat-square&logo=redis&logoColor=C8B89A)
+![PostgreSQL](https://img.shields.io/badge/Postgres-0E0E0D?style=flat-square&logo=postgresql&logoColor=C8B89A)
+![ci](https://img.shields.io/badge/ci-passing-C8B89A?style=flat-square&labelColor=161614)
 
-#### 🪟 Frameworks I Use
+**[notebook](https://github.com/RndmCodeGuy20/notebook)**  
+this portfolio's actual home. tracks every visitor scroll over sse and redis pub/sub, mostly so i can watch nobody scroll past the hero section in real time.  
+![Next.js](https://img.shields.io/badge/Next.js-0E0E0D?style=flat-square&logo=next.js&logoColor=C8B89A)
+![Tailwind](https://img.shields.io/badge/Tailwind-0E0E0D?style=flat-square&logo=tailwindcss&logoColor=C8B89A)
+![Railway](https://img.shields.io/badge/Railway-0E0E0D?style=flat-square&logo=railway&logoColor=C8B89A)
+![build](https://img.shields.io/badge/build-passing-C8B89A?style=flat-square&labelColor=161614)
 
-![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+**[mini_dns](https://github.com/RndmCodeGuy20/mini_dns)** (aegis)  
+an esp32 that resolves hostnames, sinkholes ad domains, and serves a crud api and prometheus metrics, all on a chip smaller than the badges below.  
+![C++](https://img.shields.io/badge/C%2B%2B-0E0E0D?style=flat-square&logo=cplusplus&logoColor=C8B89A)
+![ESP-IDF](https://img.shields.io/badge/ESP--IDF-0E0E0D?style=flat-square&logo=espressif&logoColor=C8B89A)
+![Prometheus](https://img.shields.io/badge/Prometheus-0E0E0D?style=flat-square&logo=prometheus&logoColor=C8B89A)
+[![CI](https://img.shields.io/github/actions/workflow/status/RndmCodeGuy20/mini_dns/ci.yml?style=flat-square&label=ci&color=0E0E0D&labelColor=161614)](https://github.com/RndmCodeGuy20/mini_dns/actions/workflows/ci.yml)
 
-#### 💾 Database(s) I Use
+---
 
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+## activity
 
-#### <img src="https://c.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif" width="40"> IDEs I Use
+<p align="center">
+  <img src="./profile-3d-contrib/profile-customize.svg" alt="3d contribution graph" width="100%"/>
+</p>
 
-![VSC](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![PY](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
-![Neo](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
-![IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Android](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+---
 
-#### 🦿 Electronics I Use
+## notes
 
-![Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![IoT](https://img.shields.io/badge/espressif-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+i write down what actually happened, not what the postmortem template wants me to say happened.
 
-[<img alt="gmail" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RndmCodeGuy20&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=jupyter%20notebook,html,dart" align="right" />](https://profile-summary-for-github.com/user/RndmCodeGuy20)
+→ https://notebook.rndmcode.in
 
-[<img alt="gmail" src="https://github-readme-stats.vercel.app/api?username=RndmCodeGuy20&theme=onedark" width='450'/>](https://profile-summary-for-github.com/user/RndmCodeGuy20)
+---
 
-<img alt="Vistiors" src="https://visitor-badge.laobi.icu/badge?page_id=RndmCodeGuy20.RndmCodeGuy20" align="center"/>
+## contact
 
-## ⭐️ From [Shantanu Mane](https://github.com/RndmCodeGuy20/RndmCodeGuy20)
-
-<br />
-<img src="https://imgur.com/rilHVxA.png"/>
+- site → https://notebook.rndmcode.in
+- mail → maneshantanu.20@gmail.com
+- github → you're already here, might as well star something
+- response time → faster for bug reports than for "quick questions"
